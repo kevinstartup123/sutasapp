@@ -62,7 +62,7 @@ class DashboardScreen extends StatelessWidget {
                         fontSize: 22,
                       ),
                     ),
-                    subtitle: Text("Ayo tanggap!"),
+                    subtitle: Text("Ayo tanggap bencana!"),
                     trailing: SizedBox(
                       height: 50,
                       width: 50,
